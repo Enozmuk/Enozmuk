@@ -1,5 +1,5 @@
 package com.example.enozmuk;
 
-public class Star extends Shape {
+public class StarAlbert extends Shape {
     String colour = "indigo";
 }
