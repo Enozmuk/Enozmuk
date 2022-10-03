@@ -1,5 +1,5 @@
 package com.example.enozmuk;
 
-public class Star {
+public class Star extends Shape {
 
 }
